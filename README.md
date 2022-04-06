@@ -4,23 +4,15 @@ In this project, we will analyze data to see how Disney movies have changed in p
 In this notebook, we will explore a dataset of Disney movies and analyze what contributes to the success of Disney movies.
 
 # Tasks
-1.The dataset
-
-2.Top ten movies at the box office
-
-3.Movie genre trend
-
-4.Visualize the genre popularity trend
-
-5.Data transformation
-
-6.The genre effect
-
-7.Confidence intervals for regression parameters (1)
-
-8.Confidence intervals for regression parameters (2)
-
-9.Confidence intervals for regression parameters (3)
-
-10.Should Disney make more action and adventure movies ?
+ 1 Data collection
+ 
+ 2 Data cleaning
+ 
+ 3 Data filtering
+ 
+ 4 Data visualization
+ 
+ 5 Linear Regression
+ 
+ 6 Future insights
 
